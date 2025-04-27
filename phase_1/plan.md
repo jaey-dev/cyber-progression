@@ -1,9 +1,13 @@
-# Phase 1: IT Basics + Lab Setup
+# Phase 1 — IT Basics + Lab Setup
 
-## What I Will Learn
-- Basic computer hardware and software fundamentals
-- Operating systems: Windows and Linux basics
-- Setting up a personal cybersecurity lab (VMs, VirtualBox)
+## Goals
+- Master Windows and Linux command line basics
+- Understand my system specs and network info
+- Build a virtual lab environment
 
-## Goal
-Successfully build a working home lab environment ready for networking and security testing.
+## Progress
+- [x] PC Specs documented
+- [ ] Basic Windows commands
+- [ ] Basic Linux commands
+- [ ] VirtualBox installed
+- [ ] Kali Linux VM setup
